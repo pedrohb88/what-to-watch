@@ -17,7 +17,14 @@
     "tv",
     "show"
   ],
-  "author": "Pedro Leal",
+  "author": {
+    "name": "Pedro Leal",
+    "email": "pedrohb88@hotmail.com",
+  },
+  "contributors": [{
+    "name": "Diana de Sales",
+    "email": "dianadsg1@gmail.com"
+  }],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/pedrohb88/what-to-watch/issues"

@@ -35,12 +35,17 @@ npm install
 npm run test
 ```
 
-## Author
+## Authors
 
 👤 **Pedro Leal**
 
 * Github: [@pedrohb88](https://github.com/pedrohb88)
 * LinkedIn: [@leal.pedro](https://linkedin.com/in/leal.pedro)
+
+👤 **Diana de Sales**
+
+* Github: [@dianasgs](https://github.com/dianasgs)
+* LinkedIn: [@dianadesales](https://linkedin.com/in/dianadesales)
 
 ## 🤝 Contributing
 
