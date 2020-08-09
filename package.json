@@ -1,0 +1,30 @@
+{
+  "name": "what-to-watch",
+  "version": "1.0.0",
+  "description": "What to Watch is an App & Web App to help everyone that eventually wants to watch something but don't know exactly what. Click a button, check the suggested Movie or TV Show, filter, rate and much more. ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrohb88/what-to-watch.git"
+  },
+  "keywords": [
+    "movies",
+    "movie",
+    "suggestion",
+    "tv",
+    "show"
+  ],
+  "author": "Pedro Leal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pedrohb88/what-to-watch/issues"
+  },
+  "homepage": "https://github.com/pedrohb88/what-to-watch#readme",
+  "engines": {
+    "npm": ">=6.14.5",
+    "node": ">=12.18.2"
+  }
+}
