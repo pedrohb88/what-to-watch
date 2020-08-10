@@ -1,3 +1,10 @@
 language: node_js
-node_js: 
-  - "node"
+node_js:
+- node
+deploy:
+  on: production
+  provider: heroku
+  app: 
+    production: what-to-watch-homologacao
+  api_key:
+    secure: Erw50uJgCgqQywqhRSJBInlQ7UASXJBv9UEp6X/EKXe4q7yHWYHHjnZM9uO/RBUeIBIaBYCo8GKemEhMd0fCEVpc3GTh29RaP+laUaMBAYRphjJ9OlMKclbV7NROSivvATx1aqKKns3BP0KSG6/tga/RpHEo5VWDY+P4puSydC7s0ruxUgcHvM0Ea9UZ7i2H3OFkavIA2kz4lmCF5hHg8WcJaGnY0heG/E4M2VxrSkplpPMlbJpDUJvFEPgJkr9MY3cSs8v/dpesyx7yufc33SlYSJ3nLLXgo4ajg0+i0rBvjBd4+qQ0G+Slx6ZxZ9saxDZSapyvOjSKKm9zgyMlJpR9sCEUkxPB8M7UOk8hv1RgqK7lVSIDRt8OxoFzrGklR/8GcrcHd8GBak0WZ9RdWJibAf5QrC7OcELI9UIqkIUyrMfTwOrrU5bCbKcD25Eufh5Wh1lN8Z+FnQdQi/+s9PvyivypqKAgraC1ZG3/sx+B9uoXRB1uYEOScmkhTgB750bky/ZCPnKSuMuJpHfU8uiRAKC/gp6lFWn0ea6LwSsxb85Qckui/oSbUPVrI9N8YdoxgIgBTk+MPhda67maTSaZQP+6pmNzoTHco5JBadH456UF7F6cGtjOuif+0ZZiQwo4G32z6YK+qT1daJtxZcTSBW6TT/SzHxMbERSBYII=
